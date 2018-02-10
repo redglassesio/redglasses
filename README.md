@@ -1,0 +1,2 @@
+# RedGlassess
+[![Build Status](https://travis-ci.org/redglassesio/redglasses.svg?branch=master)](https://travis-ci.org/redglassesio/redglasses) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/11f3320e65174acdb5f2eb6cc6f9e1c8)](https://www.codacy.com/app/redglasses/redglasses?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=redglassesio/redglasses&amp;utm_campaign=Badge_Grade)

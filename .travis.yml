@@ -1,0 +1,11 @@
+language: python
+cache: pip
+install:
+  - pip install -r requirements/test.txt
+python:
+  - "3.6"
+script:
+  - pytest --cov-report xml --cov=. --cov-fail-under 100
+after_success:
+  - export CODACY_PROJECT_TOKEN=cd6ddfac86fa475ca178e00b3e1cc8d3
+  - python-codacy-coverage -r coverage.xml

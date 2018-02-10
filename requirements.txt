@@ -1,0 +1,5 @@
+Django==2.0.1
+django-environ==0.4.4
+django-filter==1.1.0
+django-markdownx==2.0.22
+graphene-django==2.0.0
